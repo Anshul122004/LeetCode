@@ -4,5 +4,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Anshul122004/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Anshul122004/LeetCode/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
