@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anshul122004/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Anshul122004/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Anshul122004/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Anshul122004/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Anshul122004/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anshul122004/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Anshul122004/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Anshul122004/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Anshul122004/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Anshul122004/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Two Pointers
@@ -84,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Anshul122004/LeetCode/tree/master/0068-text-justification) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Anshul122004/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Anshul122004/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
