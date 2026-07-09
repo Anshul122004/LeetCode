@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    TreeNode* structTree(vector<int>& preorder, int preStart, int preEnd, vector<int>& inorder, int inStart,int inEnd, map<int,int>& inmap){
+    TreeNode* structTree(vector<int>& preorder, int preStart, int preEnd, vector<int>& inorder, int inStart,int inEnd, unordered_map<int,int>& inmap){
         if(preStart>preEnd||inStart>inEnd) return NULL;
         TreeNode* root=new TreeNode(preorder[preStart]);
         int inroot=inmap[root->val];
@@ -21,7 +21,7 @@ public:
         return root;
     }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        map<int,int> inmap;
+        unordered_map<int,int> inmap;
         for(int i=0;i<inorder.size();i++){
             inmap[inorder[i]]=i;
         }
