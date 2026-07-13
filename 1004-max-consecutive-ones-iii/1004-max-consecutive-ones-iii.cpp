@@ -5,10 +5,10 @@ public:
         int n=nums.size();
         int maxlen=0;
         while(r<n){
-            if(nums[r]==0&&cnt<=k){
+            if(nums[r]==0){
                 cnt++;
             }
-            while(cnt>k){
+            if(cnt>k){
                 if(nums[l]==0){
                     cnt--;
                 }
