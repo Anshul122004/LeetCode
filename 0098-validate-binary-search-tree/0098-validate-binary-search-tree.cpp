@@ -11,14 +11,24 @@
  */
 class Solution {
 public:
+    long long prev = LLONG_MIN;
+
     bool isValidBST(TreeNode* root) {
-        return checkValidity(root, LONG_MIN, LONG_MAX);
+        return inorderCheck(root);
     }
-    bool checkValidity(TreeNode* root, long long min_val, long long max_val){
-        if(!root) return true;
-        if(root->val>=max_val||root->val<=min_val) return false;
-        return checkValidity(root->left, min_val,root->val)
-                            &&
-                checkValidity(root->right,root->val, max_val);
+
+    bool inorderCheck(TreeNode* node) {
+        if (node == nullptr)
+            return true;
+
+        if (!inorderCheck(node->left))
+            return false;
+
+        if (node->val <= prev)
+            return false;
+
+        prev = node->val;
+
+        return inorderCheck(node->right);
     }
 };
