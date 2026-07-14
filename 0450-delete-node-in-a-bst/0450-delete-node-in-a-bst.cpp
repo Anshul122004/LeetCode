@@ -11,43 +11,33 @@
  */
 class Solution {
 public:
-    TreeNode* lastRight(TreeNode* root){
-        if(root->right==NULL){
-            return root;
-        }
-        return lastRight(root->right);
+    TreeNode* lastRightChild(TreeNode* root){
+        if(!root->right) return root;
+        return lastRightChild(root->right);
     }
     TreeNode* helper(TreeNode* root){
         if(!root->left) return root->right;
-        else if(!root->right) return root->left;
+        if(!root->right) return root->left;
         TreeNode* rightChild=root->right;
-        TreeNode* lastRightChild=lastRight(root->left);
-        lastRightChild->right=rightChild;
+        TreeNode* lastChild=lastRightChild(root->left);
+        lastChild->right=rightChild;
         return root->left;
     }
-    
     TreeNode* deleteNode(TreeNode* root, int key) {
         if(!root) return root;
-        if(root->val==key){
-            return helper(root);
-        }
+        if(root->val==key) return helper(root);
         TreeNode* dummy=root;
         while(root){
             if(root->val>key){
-                if(root->left!=NULL&&root->left->val==key){
+                if(root->left&&root->left->val==key){
                     root->left=helper(root->left);
-                    break;
-                }
-                else{
+                }else{
                     root=root->left;
                 }
-            }
-            else{
-                if(root->right!=NULL&&root->right->val==key){
+            }else{
+                if(root->right&&root->right->val==key){
                     root->right=helper(root->right);
-                    break;
-                }
-                else{
+                }else{
                     root=root->right;
                 }
             }
