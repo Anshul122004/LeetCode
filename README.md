@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Anshul122004/LeetCode/tree/master/0068-text-justification) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshul122004/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/Anshul122004/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0204-count-primes](https://github.com/Anshul122004/LeetCode/tree/master/0204-count-primes) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anshul122004/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshul122004/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
@@ -168,4 +169,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshul122004/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anshul122004/LeetCode/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anshul122004/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anshul122004/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
