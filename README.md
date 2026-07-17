@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Anshul122004/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Anshul122004/LeetCode/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
@@ -181,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Anshul122004/LeetCode/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Anshul122004/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
