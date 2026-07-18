@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anshul122004/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0068-text-justification](https://github.com/Anshul122004/LeetCode/tree/master/0068-text-justification) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anshul122004/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Anshul122004/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Simulation
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Anshul122004/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Anshul122004/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Design
 |  |
 | ------- |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Anshul122004/LeetCode/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/Anshul122004/LeetCode/tree/master/1922-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Anshul122004/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
