@@ -1,20 +1,18 @@
 class Solution {
 public:
-    void Generate(string s, int n, vector<string> &ans){
+    void comb(string s, vector<string>&ans, int n){
         if(s.size()==n){
             ans.push_back(s);
             return;
         }
-        Generate(s+'1',n,ans);
+        comb(s+'1',ans,n);
         if(s.empty()||s.back()!='0'){
-            Generate(s+'0',n,ans);
+            comb(s+'0',ans, n);
         }
-
     }
     vector<string> validStrings(int n) {
-        string s="";
         vector<string> ans;
-        Generate(s, n, ans);
+        comb("", ans, n);
         return ans;
     }
 };
