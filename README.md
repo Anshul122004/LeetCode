@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Anshul122004/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/Anshul122004/LeetCode/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/Anshul122004/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Anshul122004/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Anshul122004/LeetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshul122004/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/Anshul122004/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Anshul122004/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anshul122004/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Anshul122004/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anshul122004/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshul122004/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Anshul122004/LeetCode/tree/master/0022-generate-parentheses) |
 | [0068-text-justification](https://github.com/Anshul122004/LeetCode/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/Anshul122004/LeetCode/tree/master/0079-word-search) |
 | [0132-palindrome-partitioning-ii](https://github.com/Anshul122004/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anshul122004/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Anshul122004/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Anshul122004/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/Anshul122004/LeetCode/tree/master/0079-word-search) |
 ## Linked List
 |  |
 | ------- |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Anshul122004/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Anshul122004/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Anshul122004/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Anshul122004/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Anshul122004/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Anshul122004/LeetCode/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Anshul122004/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
