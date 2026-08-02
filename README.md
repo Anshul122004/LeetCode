@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Anshul122004/LeetCode/tree/master/0620-not-boring-movies) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Anshul122004/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/Anshul122004/LeetCode/tree/master/1527-patients-with-a-condition) |
+| [1667-fix-names-in-a-table](https://github.com/Anshul122004/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Anshul122004/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Anshul122004/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Array
