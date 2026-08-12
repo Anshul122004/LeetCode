@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anshul122004/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshul122004/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshul122004/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0205-isomorphic-strings](https://github.com/Anshul122004/LeetCode/tree/master/0205-isomorphic-strings) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Anshul122004/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## String
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Anshul122004/LeetCode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/Anshul122004/LeetCode/tree/master/0079-word-search) |
 | [0132-palindrome-partitioning-ii](https://github.com/Anshul122004/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0205-isomorphic-strings](https://github.com/Anshul122004/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anshul122004/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Anshul122004/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Simulation
