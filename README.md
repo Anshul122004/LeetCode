@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Anshul122004/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anshul122004/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshul122004/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Anshul122004/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshul122004/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/Anshul122004/LeetCode/tree/master/0205-isomorphic-strings) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Anshul122004/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Anshul122004/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Anshul122004/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Anshul122004/LeetCode/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Anshul122004/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Anshul122004/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
