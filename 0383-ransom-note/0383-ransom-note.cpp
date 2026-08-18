@@ -6,15 +6,10 @@ public:
             mp[ch]++;
         }
         for(char ch: ransomNote){
-            if(mp.find(ch)!=mp.end()){
-                if(mp[ch]<1){
-                    return false;
-                }
-                mp[ch]--;
-            }
-            else{
+            if(mp[ch]==0){
                 return false;
             }
+            mp[ch]--;
         }
         return true;
     }
